@@ -1,5 +1,8 @@
 import streamlit as st
 import pickle 
+from pathlib import Path
+
+pkl_path = Path(__file__).parents[1]
 
 loan_model = pickle.load(open('loan_model.pkl', 'rb'))
 
