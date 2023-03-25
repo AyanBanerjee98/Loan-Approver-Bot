@@ -1,3 +1,2 @@
 streamlit
 sklearn
-from sklearn.linear_model import SGDRegressor model_SGDRegressor=SGDRegressor()
