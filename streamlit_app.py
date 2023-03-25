@@ -1,5 +1,6 @@
 import streamlit as st
 import pickle 
+import sklearn
 
 loan_model = pickle.load(open('loan_model.pkl', 'rb'))
 
