@@ -3,4 +3,4 @@ numpy==1.23.0
 streamlit==1.10.0
 scikit-learn==0.23.2
 pickle
-sklearn
+import sklearn
