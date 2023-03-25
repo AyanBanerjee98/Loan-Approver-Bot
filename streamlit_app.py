@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle 
 from pathlib import Path
+pip install --upgrade pip
 
 pkl_path = Path(__file__).parents[1]
 
