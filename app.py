@@ -15,7 +15,7 @@ st.sidebar.image('https://www.klaggarwal.com/wp-content/uploads/2022/12/loan-woo
 st.sidebar.title('Loan Approver Bot')
 st.sidebar.text('Select the right customer for\nThe right amount')
 
-st.header('Please fille the below details:')
+st.header('Please fill the below details:')
 
 col1, col2, col3 = st.columns([7,7,7])
 
